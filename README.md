@@ -1,20 +1,8 @@
 ## 한국표준협회KSA 회사에서_바로_쓰는_ChatGPT_AtoZ 공유 자료실
 
 
-## 사용자 주문 프로그램
-- 192.168.1.3:8765
-
-## 증시 사이트
-
-- https://teal-naiad-96ab9a.netlify.app/
-
-
-## 참고
-
-- http://192.168.1.8:7007/
-
 ## 과제 업로드
-- https://drive.google.com/drive/folders/1aqHo7aLyCKx3QVQs2inbfiAvKSadKVH3?usp=sharing
+- https://drive.google.com/drive/folders/1U38imUg_IA_92r5vRSHztSNVdXxJkoSI?usp=sharing
 - 
 
 ### 샘플 활용법
@@ -30,6 +18,12 @@
 
 ### AI 세상에서 누구나 개발자가 되는 법
 - google.com, naver.com 등 검색 사이트에서 "송영옥 저서" "송영옥 교수" 등 송영옥 이름을 포함하여 위키독스 책을 찾을 수 있습니다. 기타 AI 활용한 다양한 개발에 필요한 책들을 온라인 북으로 작성하여 누구에게나 무료로 볼 수 있도록 제공하고 있습니다. 관심있는 누구나 이제 개발자가 될 수 있습니다.
+
+ - 참고교재1 : Gemini로 일하는 법 — 구글 AI로 완성하는 사무 업무 자동화
+ - 참고링크1 :  https://wikidocs.net/book/20705
+
+ - 참고교재2 : Claude로 일하는 법 — 업무 활용 가이드 기본편
+ - 참고링크2 : https://wikidocs.net/book/19445
 
 
 
