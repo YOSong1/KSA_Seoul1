@@ -2,7 +2,7 @@
 
 
 ## 과제 업로드
-- https://drive.google.com/drive/folders/1U38imUg_IA_92r5vRSHztSNVdXxJkoSI?usp=sharing
+- https://drive.google.com/drive/folders/1Ib1yy8G5oEXakuujl_OWrPNzgYWNKmC-?usp=drive_link
 - 
 
 ### 샘플 활용법
