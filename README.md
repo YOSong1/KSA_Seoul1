@@ -1,6 +1,9 @@
 ## 한국표준협회KSA 회사에서_바로_쓰는_ChatGPT_AtoZ 공유 자료실
 
 
+## 사이트
+- https://catherinesong-portfolio.b5sxbxsghj.chatgpt.site
+
 ### ChatGPT Desktop 설치
 
 - https://chatgpt.com/ko-KR/download/
