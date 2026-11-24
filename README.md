@@ -1,6 +1,11 @@
 ## 한국표준협회KSA 회사에서_바로_쓰는_ChatGPT_AtoZ 공유 자료실
 
 
+### ChatGPT Desktop 설치
+
+- https://chatgpt.com/ko-KR/download/
+- 
+
 ## 과제 업로드
 - https://drive.google.com/drive/folders/1Ib1yy8G5oEXakuujl_OWrPNzgYWNKmC-?usp=drive_link
 - 
