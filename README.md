@@ -3,6 +3,7 @@
 
 ## 사이트
 - https://catherinesong-portfolio.b5sxbxsghj.chatgpt.site
+- - https://catherine-song-portfolio.b5sxbxsghj.chatgpt.site
 
 ### ChatGPT Desktop 설치
 
